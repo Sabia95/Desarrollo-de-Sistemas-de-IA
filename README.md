@@ -5,4 +5,4 @@ Trabajo practico de la materia desarrollo
 ---
 ## Materia: Desarrollo de Sistemas de IA
 
-[texto](Sistemas_Expertos.)
+[Obras sistemas expertos](Sistemas_Expertos.)
